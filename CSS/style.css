@@ -1,0 +1,28 @@
+/*
+Reset
+*/
+    *{
+        margin: 0;
+        padding: 0;
+
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    html{
+        /* La taille a l'origine de 1rem est =  à  16.5pixel . La on lui donne la valeur de 1rem = 10pixel
+        Avec lorépation suivante 16.5*100*100 =*/
+        font-size: 62.5;
+    }
+
+    body{
+        font-size: 1.5rem;
+    }
+
+    h1{
+        font-size: 3rem;
+    }
+
+    h1 span{
+        font-size: .5em;
+    }
