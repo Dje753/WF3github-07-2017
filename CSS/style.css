@@ -17,10 +17,12 @@ Reset
 
     body{
         font-size: 1.5rem;
+        background-color: yellow; 
     }
 
     h1{
         font-size: 3rem;
+        color: blue; 
     }
 
     h1 span{
